@@ -1,3 +1,5 @@
+import os
+os.system("pip install qrcode[pil]")
 import streamlit as st
 import qrcode
 import urllib.parse
