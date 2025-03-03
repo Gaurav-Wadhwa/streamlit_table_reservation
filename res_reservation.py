@@ -1,5 +1,4 @@
 import os
-os.system("pip install --no-cache-dir --force-reinstall qrcode[pil]")
 import streamlit as st
 import qrcode
 import urllib.parse
